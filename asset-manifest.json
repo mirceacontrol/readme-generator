@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/readme-generator/static/css/main.cd0e5df6.css",
-    "main.js": "/readme-generator/static/js/main.6f514998.js",
+    "main.css": "/readme-generator/static/css/main.6d4d1b08.css",
+    "main.js": "/readme-generator/static/js/main.51cf2bd7.js",
     "static/js/453.a6a97343.chunk.js": "/readme-generator/static/js/453.a6a97343.chunk.js",
     "index.html": "/readme-generator/index.html",
-    "main.cd0e5df6.css.map": "/readme-generator/static/css/main.cd0e5df6.css.map",
-    "main.6f514998.js.map": "/readme-generator/static/js/main.6f514998.js.map",
+    "main.6d4d1b08.css.map": "/readme-generator/static/css/main.6d4d1b08.css.map",
+    "main.51cf2bd7.js.map": "/readme-generator/static/js/main.51cf2bd7.js.map",
     "453.a6a97343.chunk.js.map": "/readme-generator/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd0e5df6.css",
-    "static/js/main.6f514998.js"
+    "static/css/main.6d4d1b08.css",
+    "static/js/main.51cf2bd7.js"
   ]
 }
